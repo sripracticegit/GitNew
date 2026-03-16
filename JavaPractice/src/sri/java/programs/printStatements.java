@@ -10,6 +10,10 @@ public class printStatements {
 		System.out.println("I'm 2");
 		System.out.println("I'm 3");
 		
+		System.out.println("I'm 4");
+		System.out.println("I'm 5");
+		System.out.println("I'm 6");
+		
 		System.out.print("How are you?\n");
 		
 		/*formats for printing:
