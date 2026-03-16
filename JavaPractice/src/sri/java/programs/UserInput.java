@@ -23,6 +23,8 @@ public class UserInput {
 		int age = sc.nextInt();
 		System.out.printf("Ok, you are %d years old. Thank you for the information ", age);
 		sc.close();
+		
+		
 
 	}
 
