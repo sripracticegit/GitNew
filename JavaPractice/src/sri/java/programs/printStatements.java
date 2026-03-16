@@ -5,6 +5,11 @@ public class printStatements {
 	public static void main(String[] args) {
 		//we have 3 print statements i.e., print, println, printf
 		System.out.println("Hello, Good Morning");
+		
+		System.out.println("I'm 1");
+		System.out.println("I'm 2");
+		System.out.println("I'm 3");
+		
 		System.out.print("How are you?\n");
 		
 		/*formats for printing:
