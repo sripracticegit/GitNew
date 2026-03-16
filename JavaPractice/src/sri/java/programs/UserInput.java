@@ -23,6 +23,9 @@ public class UserInput {
 		int age = sc.nextInt();
 		System.out.printf("Ok, you are %d years old. Thank you for the information ", age);
 		sc.close();
+		
+		System.out.println("It's my first commit");
+		System.out.println("It's my second commit");
 
 	}
 
